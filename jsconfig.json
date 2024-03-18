@@ -10,9 +10,9 @@
       "forceConsistentCasingInFileNames": true
     },
     "include": [
-      "src/**/*.ts",
-      "src/**/*.tsx"
-    ],
+      "src/**/*.js",
+      "src/**/*.jsx"
+, "src/App.test.js", "src/App.js", "src/index.js"    ],
     "exclude": [
       "node_modules"
     ]
